@@ -142,7 +142,7 @@
                 <configuration>
 	          <archive>  
                     <manifest>  
-                        <mainClass>com.javatpoint.AppMain</mainClass>  
+                        <mainClass>com.mycompany</mainClass>  
                     </manifest>  
                   </archive>  
                     <failOnMissingWebXml>false</failOnMissingWebXml>
