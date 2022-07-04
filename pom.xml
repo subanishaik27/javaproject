@@ -150,6 +150,7 @@
                 <executions>
               </executions>
             </plugin>
+	    <finalName>springbootApp</finalName>
         </plugins>
     </build>
 
